@@ -1,0 +1,70 @@
+_repo: Ramo-de-Floresacompanhado-de-varias-criticas-das-Flores-do-Campo_24847
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Torrezão, Guiomar D.
+    alias: Torrezao, Guiomar D.
+    gutenberg_agent_id: '26772'
+    url: http://www.gutenberg.org/2009/agents/26772
+  - agent_name: Conceição, Alexandre da
+    alias: Conceicao, Alexandre da
+    birthdate: 1842
+    deathdate: 1889
+    gutenberg_agent_id: '26770'
+    url: http://www.gutenberg.org/2009/agents/26770
+  - agent_name: Cordeiro, Luciano
+    alias: Sousa, Luciano Batista Cordeiro de
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '26771'
+    url: http://www.gutenberg.org/2009/agents/26771
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Luciano_Cordeiro
+    - http://en.wikipedia.org/wiki/Luciano_Cordeiro
+  - agent_name: Figueiredo, Cândido de
+    aliases:
+    - Figueiredo, Antonio Candido de
+    - De Figueiredo, Cândido
+    - Figueiredo, Antônio Candido de
+    - Figueiredo, António Cândido de
+    birthdate: 1846
+    deathdate: 1925
+    gutenberg_agent_id: '9395'
+    url: http://www.gutenberg.org/2009/agents/9395
+    wikipedia: http://pt.wikipedia.org/wiki/C%C3%A2ndido_de_Figueiredo
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Deus, João de
+    aliases:
+    - De Deus, João
+    - Deus, Joao de
+    - Nogueira Ramos, João de Deus
+    - Ramos, João de Deus
+    birthdate: 1830
+    deathdate: 1896
+    gutenberg_agent_id: '26769'
+    url: http://www.gutenberg.org/2009/agents/26769
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jo%C3%A3o_de_Deus
+    - http://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Deus_de_Nogueira_Ramos
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2008-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24847'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Deus, João de, 1830-1896. Flores do campo'
+- !lcsh 'Portuguese poetry'
+- !lcc 'PQ'
+title: 'Ramo de Flores
+
+  acompanhado de varias criticas das Flores do Campo'
+url: http://www.gutenberg.org/ebooks/24847
